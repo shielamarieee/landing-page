@@ -144,3 +144,38 @@ h1, h2, p {
     align-self: flex-end;
     font-size: 25px;
 }
+
+.last .container {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.last .call {
+    background-color: #3883f6;
+    width: 900px;
+    height: 150px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.last h2 {
+    color: #f9faf8;
+}
+
+.last p {
+    color: #e5e7eb;
+}
+
+.last button {
+    background-color: #3883f6;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;  
+}
+
