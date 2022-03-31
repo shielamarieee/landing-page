@@ -150,6 +150,7 @@ h1, h2, p {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: 1;
 }
 
 .last .call {
@@ -179,3 +180,9 @@ h1, h2, p {
     font-size: 18px;  
 }
 
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    color: #f9faf8;
+    padding: 20px;
+}
