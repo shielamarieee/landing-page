@@ -67,9 +67,13 @@ h1, h2, p {
     font-weight: 1000;
     color: #f9faf8;
 }
+.header p {
+    color: #f9faf8;  
+}
 
 .header button {
     background-color: #3883f6;
+    color: #f9faf8;
     border: none;
     border-radius: 5px;
     padding: 5px 20px;
