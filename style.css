@@ -122,3 +122,25 @@ h1, h2, p {
     color: gray;
     gap: 10px;
 }
+
+.qoute {
+    background-color: #e5e7eb;
+}
+.qoute .container {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.qoute .text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.qoute .author {
+    font-weight: bold;
+    align-self: flex-end;
+    font-size: 25px;
+}
