@@ -16,9 +16,7 @@ ul {
 h1, h2, p {
     margin-bottom: 8px;
 }
-p, button {
-    color: #e5e7eb;
-}
+
 
 .container {
     max-width: 11000px;
@@ -80,4 +78,8 @@ p, button {
 
 .left-header, .right-header {
     margin: 10px;
+}
+
+.boxes {
+
 }
