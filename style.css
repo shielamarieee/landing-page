@@ -16,7 +16,9 @@ ul {
 h1, h2, p {
     margin-bottom: 8px;
 }
-
+img {
+    object-fit: cover;
+}
 
 .container {
     max-width: 11000px;
